@@ -1,16 +1,16 @@
 {
   "name": "leaflet-tilelayer-wmts-es",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "leaflet-tilelayer-wmts for es",
   "homepage": "https://github.com/zhangyahan/leaflet-tilelayer-wmts-es#readme",
   "bugs": {
-    "url": "https://github.com/antfu/leaflet-tilelayer-wmts-es/issues"
+    "url": "https://github.com/zhangyahan/leaflet-tilelayer-wmts-es/issues"
   },
   "license": "MIT",
   "author": "zhangyahan <yahan233@163.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/leaflet-tilelayer-wmts-es.git"
+    "url": "git+https://github.com/zhangyahan/leaflet-tilelayer-wmts-es.git"
   },
   "module": "./dist/leaflet-tilelayer-wmts-es.mjs",
   "types": "./dist/index.d.ts",
