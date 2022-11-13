@@ -1,1 +1,1 @@
-export function wmtsLayer() {}
+export default function wmtsLayer() {}
